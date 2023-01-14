@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/gw2g22hbk1fi4sgb?svg=true)](https://ci.appveyor.com/project/AlexandraChernova/api-homework)
+[![Build status](https://ci.appveyor.com/api/projects/status/gw2g22hbk1fi4sgb/branch/main?svg=true)](https://ci.appveyor.com/project/AlexandraChernova/api-homework/branch/main)
